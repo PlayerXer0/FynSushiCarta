@@ -1,0 +1,6 @@
+<svg class="icono icono-carita" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="30" stroke="#39ff14" stroke-width="4" fill="none"/>
+  <line x1="22" y1="22" x2="30" y2="30" stroke="#39ff14" stroke-width="4"/>
+  <line x1="30" y1="22" x2="22" y2="30" stroke="#39ff14" stroke-width="4"/>
+  <line x1="34" y1="42" x2="48" y2="42" stroke="#39ff14" stroke-width="4"/>
+</svg>
