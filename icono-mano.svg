@@ -1,4 +1,21 @@
-<svg class="icono icono-mano" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 40L14 20M14 20L20 40M20 40L24 16M24 16L30 42M30 42L34 22M34 22L38 42M38 42L44 28M44 28L50 44" 
-        stroke=\"#39ff14\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <path d="
+    M20 40
+    C20 30, 18 20, 20 16
+    M24 40
+    V20
+    M28 44
+    V28
+    M32 44
+    C32 40, 32 34, 36 34
+    C40 34, 40 40, 40 44
+    M36 20
+    V40
+    M44 16
+    V40"
+    fill="none"
+    stroke="#39ff14"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round" />
 </svg>
